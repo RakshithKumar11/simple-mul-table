@@ -9,7 +9,7 @@ header{
     align-items: center;
     text-align: center;
     font-size: 4vh;
-    color: red;
+    color: blue;
 }
 main{
     display: flex;
@@ -20,8 +20,8 @@ main{
     width:100%;
 }
 input, button{
-    font-size:2vw;
+    font-size:2.5vw;
 }
 p{
-    font-size:1vw;
+    font-size:2vw;
 }

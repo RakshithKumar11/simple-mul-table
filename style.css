@@ -16,12 +16,11 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 2vw;
     width:100%;
 }
-input, button{
-    font-size:2.5vw;
+label,input, button{
+    font-size:3vw;
 }
 p{
-    font-size:2vw;
+    font-size:2.5vw;
 }

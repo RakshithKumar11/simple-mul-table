@@ -1,7 +1,6 @@
 
 
 function myFun(){
-location.reload();
 const input = document.getElementById('input').value;
 var para = document.getElementById('mul');
 for(var i=1;i<=10;i++){
